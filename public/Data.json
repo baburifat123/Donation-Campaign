@@ -1,0 +1,184 @@
+[
+      {
+        "title": "Clean Water for Children",
+        "button": "View Details",
+        "category": " Health",
+        "price": "$12.5",
+        "image":"https://i.ibb.co/vVJYqpj/community-education.jpg",
+        "description": "Children's health is a holistic and multifaceted concept that encompasses the physical, mental, and social well-being of young individuals. Ensuring optimal health during childhood is crucial for proper growth, development, and the establishment of a foundation for a healthy adulthood.",
+        "id": 1,
+        "styles": {
+          "textColor": "#0052FF",
+          "Background": "rgba(0, 82, 255, 0.15)",
+          "color":"#0052FF33"
+        }
+      },
+
+      {
+        "title": "Good Education",
+        "image":"https://i.ibb.co/FKNBTy5/Pooj-jpg.webp",
+        "category":"Education",
+        "button": "View Details",
+        "price": "$20.99",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "id": 2,
+        "styles": {
+          "textColor": "#FF444A",
+          "Background": "rgba(255, 68, 74, 0.15)",
+          "color":"#FF444A33"
+        }
+      },
+
+      {
+        "title": "Used Clothing Drive",
+        "image":"https://i.ibb.co/cc82nQ7/cloting.jpg",
+        "category":"Clothing",
+        "button": "View Details",
+        "price": "Free",
+        "description": "Clothing primarily serves a functional purpose by providing protection from environmental elements such as extreme temperatures, sunlight, wind, and precipitation. Different types of clothing are designed to meet specific needs, from insulating layers in cold climates to lightweight fabrics in hot weather.",
+        "id": 3,
+        "styles": {
+          "textColor": "#79C23F",
+          "Background": "rgba(121, 194, 63, 0.15)",
+          "color":"#79C23F33"
+        }
+      },
+      {
+        "title": "Better Food for Everyone",
+        "image":"https://i.ibb.co/9hMZDhh/fod.webp",
+        "category":"Food",
+        "button": "View Details",
+        "price": "$25.4",
+        "description": "At its core, food is a source of nutrition, supplying the body with essential nutrients such as carbohydrates, proteins, fats, vitamins, and minerals. A balanced diet is crucial for maintaining good health, supporting growth, and preventing nutritional deficiencies.",
+        "id": 4,
+        "styles": {
+          "textColor": "#F87147",
+          "Background": "rgba(248, 113, 71, 0.15)",
+          "color":"#F8714733"
+        }
+      },
+     
+
+      {
+        "title": "Better Food for Everyone",
+        "image":"https://i.ibb.co/9hMZDhh/fod.webp",
+        "category":"Food",
+        "button": "View Details",
+        "price": "$7.99",
+        "description": "At its core, food is a source of nutrition, supplying the body with essential nutrients such as carbohydrates, proteins, fats, vitamins, and minerals. A balanced diet is crucial for maintaining good health, supporting growth, and preventing nutritional deficiencies.",
+        "id":5,
+        "styles": {
+          "textColor": "#F87147",
+          "Background": "rgba(248, 113, 71, 0.15)",
+          "color":"#F8714733"
+
+        }
+      },
+
+      {
+        "title": "Used Clothing Drive",
+        "image":"https://i.ibb.co/cc82nQ7/cloting.jpg",
+        "category":"Clothing",
+        "button": "View Details",
+        "price": "$5.99",
+        "description": "Clothing primarily serves a functional purpose by providing protection from environmental elements such as extreme temperatures, sunlight, wind, and precipitation. Different types of clothing are designed to meet specific needs, from insulating layers in cold climates to lightweight fabrics in hot weather.",
+        "id":6,
+        "styles": {
+          "textColor": "#79C23F",
+          "Background": "rgba(121, 194, 63, 0.15)",
+          "color":"#79C23F33"
+        }
+      },
+      {
+        "title": "Good education",
+        "image":"https://i.ibb.co/FKNBTy5/Pooj-jpg.webp",
+        "category":"Education",
+        "button": "View Details",
+        "price": "$15.99",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "id":7,
+        "styles": {
+          "textColor": "#FF444A",
+          "Background": "rgba(255, 68, 74, 0.15)",
+          "color":"#FF444A33"
+        }
+      },
+      {
+        "title": "Clean water for children",
+        "image":"https://i.ibb.co/vVJYqpj/community-education.jpg",
+        "category": " Health",
+        "button": "View Details",
+        "price": "$5.99",
+        "description": "Children's health is a holistic and multifaceted concept that encompasses the physical, mental, and social well-being of young individuals. Ensuring optimal health during childhood is crucial for proper growth, development, and the establishment of a foundation for a healthy adulthood.",
+        "id":8,
+        "styles": {
+          "textColor": "#0052FF",
+          "Background": "rgba(0, 82, 255, 0.15)",
+          "color":"#0052FF33"
+        }
+      },
+   
+  
+  
+      {
+        "title": "Clean water for children",
+        "image":"https://i.ibb.co/vVJYqpj/community-education.jpg",
+        "category": " Health",
+        "button": "View Details",
+        "price": "$10.99",
+        "description": "Children's health is a holistic and multifaceted concept that encompasses the physical, mental, and social well-being of young individuals. Ensuring optimal health during childhood is crucial for proper growth, development, and the establishment of a foundation for a healthy adulthood.",
+        "id":9,
+        "styles": {
+          "textColor": "#0052FF",
+          "Background": "rgba(0, 82, 255, 0.15)",
+          "color":"#0052FF33"
+        }
+      },
+      {
+        "title": "Good education",
+        "image":"https://i.ibb.co/FKNBTy5/Pooj-jpg.webp",
+        "category":"Education",
+        "button": "View Details",
+        "price": "$25.99",
+        "id":10,
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "styles": {
+          "textColor": "#FF444A",
+          "Background": "rgba(255, 68, 74, 0.15)",
+          "color":"#FF444A33"
+        }
+      },
+      {
+        "title": "Used Clothing Drive",
+        "image":"https://i.ibb.co/cc82nQ7/cloting.jpg",
+        "category":"Clothing",
+        "button": "View Details",
+        "price": "$29.99",
+        "description": "Clothing primarily serves a functional purpose by providing protection from environmental elements such as extreme temperatures, sunlight, wind, and precipitation. Different types of clothing are designed to meet specific needs, from insulating layers in cold climates to lightweight fabrics in hot weather.",
+        "id":11,
+        "styles": {
+          "textColor": "#79C23F",
+          "Background": "rgba(121, 194, 63, 0.15)",
+          "color":"#79C23F33"
+        }
+      },
+      
+      {
+        "title": "Better Food for Everyone",
+        "image":"https://i.ibb.co/9hMZDhh/fod.webp",
+        "category":"Food",
+        "button": "View Details",
+        "price": "$12.99",
+        "description": "At its core, food is a source of nutrition, supplying the body with essential nutrients such as carbohydrates, proteins, fats, vitamins, and minerals. A balanced diet is crucial for maintaining good health, supporting growth, and preventing nutritional deficiencies.",
+        "id":12,
+        "styles": {
+          "textColor": "#F87147",
+          "Background": "rgba(248, 113, 71, 0.15)",
+          "color":"#F8714733"
+        }
+      }
+
+   
+    ]
+
+
